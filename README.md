@@ -2,7 +2,7 @@
 
 A PCB that carries Pb and Pr video lines with their respective components. The Y line is not on the PCB as it is just wired directly from the multi-out port instead. This mod does not work on stock SNES Jr. or "1-Chip" consoles. Compatible stock consoles **must** contain an S-ENC chip. Sometimes the S-ENC chip is labelled as "BA6594AF" or may be a revision labelled as "S-ENC A" or "S-ENC B."
 
-![ph1S5gp](https://github.com/joshman196/SNES-Component-Video-Mod-PCB-Private/assets/114156648/36313453-5e08-4542-a5f1-64baf943a525)
+![261834495-36313453-5e08-4542-a5f1-64baf943a525](https://github.com/joshman196/SNES-Component-Video-Mod-PCB/assets/114156648/6c7e596d-b4dc-4511-9955-1846878fea07)
 
 ## Parts Needed
 
